@@ -76,6 +76,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.ccnode.codegenerator.MyBatisCodeHelperPro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.haulmont.jpab">
           <value>
             <PluginData>
@@ -102,6 +115,17 @@
           </value>
         </entry>
         <entry key="com.mallowigi">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.markskelton.one-dark-theme">
           <value>
             <PluginData>
               <option name="dependencies">
